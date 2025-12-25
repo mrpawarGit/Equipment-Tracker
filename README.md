@@ -159,6 +159,16 @@ This ensures a clean and usable experience across devices.
 
 ---
 
+## 📥 What I Would Improve With More Time
+* user friendly notifications.
+* Add pagination for handling large datasets efficiently.
+* Server-side validation.
+* Authentication and Authorization.
+* Role-based Access.
+* Header & Footer.
+* User Dashboard.
+* Theme functionality.
+
 ## 📌 Conclusion
 
 This project focuses on:
