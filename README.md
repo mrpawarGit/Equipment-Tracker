@@ -5,6 +5,10 @@ Built as part of an intern take-home assignment to demonstrate frontend, backend
 
 ---
 
+## 🚀 Live Application 🌐👉 **[Equipment Tracker](https://equipment-tracker-phi.vercel.app/)**
+
+---
+
 ## ✨ Features
 
 * View all equipment in a list
