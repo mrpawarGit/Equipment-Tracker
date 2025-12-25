@@ -1,7 +1,6 @@
 # 🛠️ Equipment Tracker
 
-A simple full-stack web application to manage and track equipment details such as type, status, and last cleaned date.
-Built as part of an intern take-home assignment to demonstrate frontend, backend, and database fundamentals.
+A simple `Full Stack Web Application` to manage and track equipment details such as type, status, and last cleaned date.
 
 ---
 
