@@ -11,6 +11,7 @@ Built as part of an intern take-home assignment to demonstrate frontend, backend
 * Add new equipment
 * Edit existing equipment
 * Delete equipment
+* Search, Filter & Sort equipments.
 * Responsive UI (table view on desktop, card view on mobile)
 * Minimal loading screen while waiting for backend (useful for cold starts)
 
