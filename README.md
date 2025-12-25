@@ -1,7 +1,10 @@
 # 🛠️ Equipment Tracker
 
-A simple full-stack web application to manage and track equipment details such as type, status, and last cleaned date.
-Built as part of an intern take-home assignment to demonstrate frontend, backend, and database fundamentals.
+A simple `Full Stack Web Application` to manage and track equipment details such as type, status, and last cleaned date.
+
+---
+
+## 🚀 Live Application 🌐👉 **[Equipment Tracker](https://equipment-tracker-phi.vercel.app/)**
 
 ---
 
@@ -155,6 +158,16 @@ This is useful when the backend is deployed on platforms like **Render**, where 
 This ensures a clean and usable experience across devices.
 
 ---
+
+## 📥 What I Would Improve With More Time
+* user friendly notifications.
+* Add pagination for handling large datasets efficiently.
+* Server-side validation.
+* Authentication and Authorization.
+* Role-based Access.
+* Header & Footer.
+* User Dashboard.
+* Theme functionality.
 
 ## 📌 Conclusion
 

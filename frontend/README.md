@@ -8,7 +8,7 @@ It is a responsive single-page application built with **React (Vite)** and **Tai
 ## 🚀 Live Application
 
 **Frontend URL:**
-👉 **Equipment Tracker**
+👉 **[Equipment Tracker](https://equipment-tracker-phi.vercel.app/)**
 
 ---
 
@@ -149,3 +149,4 @@ This ensures good usability across all screen sizes.
 * Focus on clarity, usability, and maintainability
 
 ---
+
