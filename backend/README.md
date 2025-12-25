@@ -8,7 +8,7 @@ It provides RESTful APIs to manage equipment data and is built using **Node.js, 
 ## 🚀 Backend Deployment
 
 **Deployed Backend URL:**
-👉 **Equipment Tracker API**
+👉 **[Equipment Tracker API](https://equipment-tracker-tf4h.onrender.com/)**
 ---
 
 ## 🧑‍💻 Tech Stack
@@ -137,3 +137,4 @@ Each equipment record includes:
 * Built to support a React frontend cleanly
 
 ---
+
