@@ -156,13 +156,6 @@ This ensures a clean and usable experience across devices.
 
 ---
 
-## 🔮 Improvements With More Time
-
-* Pagination for large datasets
-* Better error handling and user feedback
-
----
-
 ## 📌 Conclusion
 
 This project focuses on:
